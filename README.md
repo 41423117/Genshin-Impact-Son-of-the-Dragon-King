@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="Read Aloud.png" alt="描述這張圖片的內容" width="1000">
-</p>
+|目前使用我開發的〔Read Aloud〕朗讀文字|
+|---|
+| <img src="Read Aloud.png" alt="Read Aloud icon" height="800"> 1 |
