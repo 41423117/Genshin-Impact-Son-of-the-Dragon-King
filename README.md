@@ -1,1 +1,3 @@
- img src="朗讀器.png" alt=朗讀器 icon" height="250"
+|   |
+|---|
+| <img src="folder/page07.png" alt="page07 icon" height="500"> |   |
