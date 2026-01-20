@@ -1,3 +1,3 @@
 |   |
 |---|
-| <img src="folder/page07.png" alt="page07 icon" height="500"> |   |
+| <img src="Read Aloud.png" alt="Read Aloud icon" height="500"> |   |
